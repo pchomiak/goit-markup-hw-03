@@ -1,0 +1,41 @@
+body {font-family: 'roboto', sans-serif;
+color: #212121;}
+.interactive:hover, .interactive:focus {color:#2196F3;}
+.contact:hover {color: #535151;}
+.logo {font-family: 'raleway', sans-serif;
+font-size: 26px;
+line-height: 1.17;}
+.menu {font-size: 14px;
+line-height: 1.17;}
+.agency, .portfolio {color: #2196F3;}
+h1 {font-size: 60px;
+font-weight: 900;
+line-height: 1.36;
+color: #FFFFFF;}
+section>h2 {font-size: 36px;
+font-weight: bold;
+line-height: 1.17;} 
+div h3 {font-size: 16px;
+font-weight: 500;
+line-height: 1.1875;}
+.team p {font-size: 16px;
+line-height: 1.1875;
+color: #757575;}
+.lorem p {font-size: 14px;
+line-height: 1.71;
+color: #757575;}
+a.interactive.contact {font-size: 14px;
+line-height: 1.71;
+color: #757575;}
+li.interactive.contact {font-size: 14px;
+line-height: 1.17;
+color: #757575}
+address {font-size: 14px;
+line-height: 1.71;
+color: #FFFFFF;}
+span {color: #2196F3;}
+button {cursor: pointer;}
+a {text-decoration: none;}
+footer, .main-sign {background-color: #2F303A;}
+.lorem-section, .what-we-do {background-color: #FFFFFF;}
+.ourteam {background-color: #F5F4FA;}
