@@ -105,6 +105,8 @@ div h3 {margin-bottom: 10px;
 .list-what-we-do {display: flex;
 margin-left: 215px;
 }
+.what-we-do h2 {margin-left: 624px;
+margin-bottom: 50px;}
 .list-what-we-do li:not(:last-child) {margin-right: 30px;}
 
 .ourteam h2 {margin-left: 695px;
