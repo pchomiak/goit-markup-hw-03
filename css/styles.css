@@ -288,9 +288,14 @@ div h3 {
     margin-bottom: 20px;
 }
 
+.interactive.logo a {
+    color: #fff;
+}
+
 footer {
     padding-bottom: 60px;
 }
+
 
 .btn-list {
     display: flex;
